@@ -1,4 +1,8 @@
 {
+  "0xAFL_ADDRESS": {
+    "mainnet": "0x8f9231920da9af6d",
+    "testnet": "0xb39a42479c1c2c77"
+  },
   "0xBEAM_ADDRESS": {
     "mainnet": "0x86b4a0010a71cfc3",
     "testnet": "0x6085ae87e78e1433"

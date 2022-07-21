@@ -1,0 +1,9 @@
+{
+  "arguments": ["templateIds", "packTemplateId", "price", "receiptAddress"],
+  "messages": {
+    "en": "Purchase AFL pack(s) for {price} USDC"
+  },
+  "balances": {
+    "price": "USDC"
+  }
+}
